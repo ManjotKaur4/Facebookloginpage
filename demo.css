@@ -1,0 +1,479 @@
+body {
+
+    line-height: 1.28;
+    font-family: system-ui, -apple-system, "system-ui", ".SFNSText-Regular", sans-serif
+}
+
+html {
+    background: aliceblue;
+    background-image: url("../facebook\ project-3/Image/white.jpeg");
+    background-color: #f0f2f5;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.rightbod {
+    display: inline-block;
+    vertical-align: top;
+    width: 399px;
+    height: 200px;
+    margin-top: 10%;
+    margin-left: 37%;
+}
+
+.signup {
+    font-size: 36px;
+
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.bolder {
+    font-family: system-ui, -apple-system, "system-ui", ".SFNSText-Regular", sans-serif;
+    color: #333;
+}
+
+.signline {
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    width: 437px;
+    margin-bottom: 12px;
+}
+
+.free {
+    font-size: 15px;
+    margin-bottom: 20px;
+    color: rgb(96, 103, 112);
+    font-weight: 400;
+}
+
+.formbox {
+    display: inline-block;
+    width: 399px;
+}
+
+.inputbody {
+    display: inline-block;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    padding: 8px 13px;
+    border: 1px solid #bdc7d8;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+
+.signup.page2.formsignupbtnbox {
+    display: grid;
+    /* margin-left: 35%; */
+}
+
+.in2 {
+    width: 410px;
+}
+
+.fr {
+    float: right;
+}
+
+.fl {
+    float: left;
+}
+
+.why {
+    font-size: 11px;
+    color: #3b5998;
+    width: 150px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.h:hover {
+    text-decoration: underline;
+}
+
+label {
+    height: 34px;
+    border-radius: 6px;
+    box-sizing: border-box;
+    color: #1c1e21;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 36px;
+    padding: 0 28px 0 10px;
+    width: 100%;
+}
+
+.gender {
+    font-size: 12px;
+    color: #141823;
+    cursor: pointer;
+    padding: 0 10px 0 3px;
+    margin-right: 30px;
+    line-height: 18px;
+    vertical-align: middle;
+    font-weight: 400;
+}
+
+.birthD {
+    font-size: 12px;
+    color: #141823;
+    font-weight: 400;
+}
+
+.signup.page {
+    /* box-shadow: 0 5px 5px 3px gainsboro; */
+    background-color: white;
+    box-shadow: 0 5px 18px 6px #9e9999;
+}
+
+button.cancelbtn {
+    margin-left: 88%;
+    margin-bottom: 12px;
+}
+
+img.errorimg {
+    height: 18px;
+}
+
+.signup.page {
+    display: grid;
+    margin-left: 35%;
+    margin-top: 9%;
+    width: 440px;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+button.signbut.bolder {
+    background: none;
+    background-color: #00a400;
+    border: none;
+    border-radius: 6px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    height: 36px;
+    overflow: hidden;
+    padding: 0 32px;
+    text-shadow: none;
+    margin-left: 149px;
+}
+
+.mt1 {
+    margin-top: 15px;
+}
+
+input.inputbody {
+    margin-right: 80px;
+}
+
+.m0 {
+    margin: 0;
+}
+
+.agree {
+    font-size: 11px;
+    color: #777;
+    width: 316px;
+    margin: 11px 0 11px;
+}
+
+.link {
+    color: #3b5998;
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+.create {
+    border-top: 1px solid #a0a9c0;
+    color: #666;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-top: 15px;
+}
+
+.signup.page {
+    display: grid;
+    margin-left: 30%;
+    margin-top: 5%;
+    width: 440px;
+
+}
+
+.signup.write {
+    text-decoration: none solid rgb(28, 30, 33);
+    text-align: left;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 38px;
+    color: #1c1e21;
+    color: rgb(28, 30, 3);
+    background-color: rgba(0, 0, 0, 0);
+}
+
+
+input.inputbody {
+    border-radius: 5px;
+    height: 30px;
+}
+
+.formsignupbox {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.col-form {
+    /* margin-left: 35%; */
+    width: 432px;
+}
+
+.birthD {
+    margin-bottom: 5px;
+}
+
+.formbox-select {
+    margin-bottom: 10px;
+}
+
+select.selectbody-month {
+    width: 127px;
+    height: 34px;
+    border-radius: 6px;
+    color: rgb(28, 30, 33);
+    font-size: 15px;
+}
+
+select.selectbody-day {
+    width: 127px;
+    height: 34px;
+    border-radius: 6px;
+    color: rgb(28, 30, 33);
+    font-size: 15px;
+}
+
+select.selectbody-year {
+    width: 127px;
+    height: 34px;
+    border-radius: 6px;
+    color: rgb(28, 30, 33);
+    font-size: 15px;
+}
+
+p.formbox.pagh {
+    color: #777;
+    font-size: 11px;
+    margin: 1em 0;
+    line-height: 1.34;
+    text-align: left;
+}
+
+/* >>>>>>>>>>> FOOTER <<<<<<<<<<< */
+#wrapper {
+    margin: 0 auto;
+    padding: 0px;
+    text-align: center;
+    width: 980px;
+}
+
+#wrapper div {
+    float: left;
+    font-family: helvetica, arial, sans-serif;
+}
+
+#wrapper #div1 {
+    margin-top: 30px;
+    width: 590px;
+    text-align: left;
+}
+
+#wrapper #div1 p {
+    font-size: 20px;
+    font-family: arial;
+    font-weight: bold;
+    margin: 0px;
+    color: #0e385f;
+}
+
+#wrapper #div2 {
+    margin-top: 10px;
+    width: 390px;
+    text-align: left;
+}
+
+#wrapper #div2 h1 {
+    margin: 0px;
+    font-size: 37px;
+    color: #2E2E2E;
+}
+
+#wrapper #div2 p {
+    font-size: 18px;
+    color: #2E2E2E;
+}
+
+#wrapper #div2 li {
+    list-style-type: none;
+    margin-top: 10px;
+}
+
+#wrapper #div2 li #firstname {
+    width: 49%;
+}
+
+#wrapper #div2 li #surname {
+    margin-left: 2%;
+    width: 49%;
+}
+
+#wrapper #div2 li input[type="text"] {
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 18px;
+    border: 1px solid #BDBDBD;
+}
+
+#wrapper #div2 li input[type="password"] {
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 18px;
+    border: 1px solid #BDBDBD;
+}
+
+#wrapper #div2 li select {
+    padding: 4px;
+    float: left;
+}
+
+#wrapper #div2 li a {
+    margin-left: 10px;
+    width: 150px;
+    color: #045FB4;
+    text-decoration: none;
+    font-size: 11px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 15px;
+}
+
+#wrapper #div2 li a:hover {
+    text-decoration: underline;
+}
+
+#wrapper #div2 li {
+    color: #2E2E2E;
+    font-size: 18px;
+}
+
+#wrapper #div2 #terms {
+    color: #424242;
+    font-size: 11px;
+}
+
+#wrapper #div2 #terms a {
+    display: inline;
+    margin: 0px;
+}
+
+#wrapper #div2 li input[type="submit"] {
+    width: 205px;
+    height: 45px;
+    text-align: center;
+    font-size: 19px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Freight Sans Bold', helvetica, arial, sans-serif !important;
+    font-weight: bold !important;
+    background: linear-gradient(#67ae55, #578843);
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    border: 1px solid;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .5);
+}
+
+#wrapper #div2 #create_page {
+    color: #424242;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#wrapper #div2 #create_page a {
+    display: inline;
+    margin: 0px;
+    font-size: 13px;
+}
+
+#footer_wrapper {
+    width: 100%;
+    clear: both;
+    float: left;
+    margin-top: 30px;
+    min-width: 995px;
+    background-color: white;
+    text-align: left;
+}
+
+#footer1 {
+    width: 980px;
+    margin: 0px auto;
+    padding: 0px;
+    border-bottom: 1px solid #E6E6E6;
+    height: 30px;
+    line-height: 30px;
+    font-size: 12px;
+    color: #848484;
+}
+
+#footer1 a {
+    color: #365899;
+    display: inline;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+#footer1 a:hover {
+    text-decoration: underline;
+}
+
+#footer2 {
+    width: 980px;
+    margin: 0px auto;
+    padding: 0px;
+    font-size: 12px;
+    color: #848484;
+}
+
+#footer2 a {
+    color: #365899;
+    display: inline-block;
+    margin: 5px;
+    margin-left: 0px;
+    min-width: 80px;
+    text-decoration: none;
+}
+
+#footer2 a:hover {
+    text-decoration: underline;
+}
+
+@media screen and (min-width: 375px) {
+    html {
+        background-size: cover;
+        width: 100%;
+    }
+}
